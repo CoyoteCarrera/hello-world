@@ -1,5 +1,5 @@
 # hello-world
 My very first repository
 
-Ok, this is my fiorst change un my first alternate branch.
+Ok, this is my first change un my first alternate branch.
 Tacos?... ok, cool
